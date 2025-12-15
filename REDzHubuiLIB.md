@@ -114,3 +114,5 @@ MainTab:AddSlider({
     Default = 16,
 })
 ```
+# preview
+<img width="1792" height="828" alt="image" src="https://github.com/user-attachments/assets/f2ae6983-7113-4024-9db0-0df0f45e7e63" />
